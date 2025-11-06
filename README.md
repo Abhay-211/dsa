@@ -36,7 +36,7 @@ The repository is organized by assignment modules. Each directory contains the s
 
 4.Linear Search: Implementation of the sequential search algorithm.
 
-5.Bubble Sort: A simple comparison-based sorting algorithm.
+### 5.Bubble Sort: A simple comparison-based sorting algorithm.
 ---
 
 ## 🧠 Core Concepts Demonstrated
